@@ -21,8 +21,7 @@ It demonstrates how to create a database, manage tasks, and perform basic SQL op
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todolist-sql.git
-   cd todolist-sql
+   git clone https://github.com/vedikaa06/To-do-list-SQL/blob/main/README.md?plain=1
     ```
 2. Open MySQL and run the SQL script:
     ```bash
